@@ -70,11 +70,37 @@ inquirer
   ${answers.description}
   
   ## Table of Contents
+
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [Contributing](#contributing)
+    - [Tests](#tests)
   
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
+  ## Installation
+  ${
+    answers.installation !== 'None'
+    ? `- [Installation](#installation)`
+    : ''
+   }
+  ## Usage
+   ${
+    answers.usage !== 'None'
+    ? `- [Usage](#usage)`
+    : ''
+   }
+  ## Contributing
+   ${
+    answers.contributing !== 'None'
+    ? `- [Contributing](#contributing)`
+    : ''
+   }
+  ## Tests
+   ${
+    answers.tests !== 'None'
+    ? `- [Tests](#tests)`
+    : ''
+   }
+  ## License
   ${
     answers.license !== 'None'
       ? `- [License](#license)`
