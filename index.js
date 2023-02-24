@@ -72,11 +72,13 @@ inquirer
   ## Table of Contents
 
   ${
-   `- [Installation](#installation)
+   `
+    - [Installation](#installation)
     - [Usage](#usage)
     - [Contribution](#contribution)
     - [Tests](#tests)
-    - [License](#license)`
+    - [License](#license)
+    `
   }
 
   ## Installation
