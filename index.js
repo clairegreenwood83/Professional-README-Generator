@@ -70,14 +70,16 @@ inquirer
   ${answers.description}
   
   ## Table of Contents
-
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Contribution](#contribution)
-    - [Tests](#tests)
-    - [License](#license)
-
-
+  
+  ${'```'}
+  ${tocString`
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contribution](#contribution)
+  - [Tests](#tests)
+  - [License](#license)
+  `}
+  ${'```'}
   ## Installation
 
    ${answers.installation}
