@@ -51,7 +51,7 @@ inquirer
     },
 ])
   
-.then ((answers) => {
+.then((answers) => {
     
     const readme =
 
@@ -71,51 +71,44 @@ inquirer
   
   ## Table of Contents
 
-    - [Installation](#installation)
+  ${
+   `- [Installation](#installation)
     - [Usage](#usage)
-    - [Contributing](#contributing)
+    - [Contribution](#contribution)
     - [Tests](#tests)
-  
+    - [License](#license)`
+  }
+
   ## Installation
-  ${
-    answers.installation !== 'None'
-    ? `- [Installation](#installation)`
-    : ''
-   }
+
+   ${answers.installation}
+
   ## Usage
-   ${
-    answers.usage !== 'None'
-    ? `- [Usage](#usage)`
-    : ''
-   }
-  ## Contributing
-   ${
-    answers.contributing !== 'None'
-    ? `- [Contributing](#contributing)`
-    : ''
-   }
+
+   ${answers.usage}
+
+  ## Contribution
+
+   ${answers.contribution}
+
   ## Tests
-   ${
-    answers.tests !== 'None'
-    ? `- [Tests](#tests)`
-    : ''
-   }
+
+   ${answers.tests}
+
   ## License
-  ${
-    answers.license !== 'None'
-      ? `- [License](#license)`
-      : ''
-  }`
+
+   ${answers.license}
+    
+ `
 
   fs.writeFile('README.md', readme, (err) => {
     if (err) throw err;
     console.log('README.md file created successfully!');
   });
 
-//.catch((err) => {
-  //console.error(err);
+})
 
-//});
-
+.catch((error) => {
+    console.error(error);
+   
 });
-
