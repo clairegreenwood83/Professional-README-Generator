@@ -16,15 +16,7 @@ The acceptance criteria for this project were:
 - Create a command-line application that accepts user input.
 - When a user is prompted for information about the application repository then a high-quality, professional README.md is generated with:
     - The title of my project
-    - Sections entitled:
-      Description 
-      Table of Contents 
-      Installation 
-      Usage 
-      License 
-      Contributing 
-      Tests 
-      Questions 
+    - Sections entitled: Description, Table of Contents, Installation, Usage, License, Contributing, Tests, Questions 
 
 - When a user enters the project title then it is displayed as the title of the README
 - When a user enters a description, installation instructions, usage information, contribution guidelines, and test instructions then this information is     added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
@@ -57,14 +49,6 @@ The acceptance criteria for this project were:
   ## License
 
    MIT
-
-  ## Contribution
-
-   y
-
-  ## Tests
-
-   y
 
    ## Questions
 
