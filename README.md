@@ -25,34 +25,38 @@ As a developer, I want a README generator so that I can quickly create a profess
 - When a user enters their email address then this is added to the section of the README entitled Questions, with instructions on how to reach them with     additional questions
 - When a user clicks on the links in the Table of Contents then they are taken to the corresponding section of the README
   
-  ## Table of Contents
-
+## Table of Contents
   
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contribution](#contribution)
   - [Tests](#tests)
   - [Questions](#questions)
   
  
-  ## Installation
+## Installation
 
-  - Clone the repository to your remote 
-  - Install the inquirer and added it to the list of dependencies by running `npm i inquirer --save`.
+- Clone the repository to your remote editor. 
+- Install the inquirer and added it to the list of dependencies by running `npm i inquirer --save`.
 
-  ## Usage
+## Usage
 
-  - The application can be invoked by using the command node index.js in the terminal. 
-  - Answer the prompts that follow.
-  - A README file will be created on success. The README file will be generated in mark down syntax so you can copy and paste that code into your project.
+- The application can be invoked by using the command node index.js in the terminal. 
+- Answer the prompts that follow. The prompts appear as shown in the following image of a terminal running the application:
+![screenshot of terminal](https://user-images.githubusercontent.com/118351853/221629473-89938be6-ada7-4c3e-8042-50d4fc0bf9cc.jpeg)
 
-  ## License
+- A README file will be created on success. 
+- The README file will be generated in mark down syntax so you can copy and paste that code into your project.
+- The following video shows how to use the application:
 
-  MIT
 
-  ## Questions
 
-  My GitHub profile can be accessed here: https://github.com/clairegreenwood83.  
-  For additional instructions please contact me at cg.clairegreenwood@gmail.com.
+## License
+
+MIT
+
+## Questions
+
+My GitHub profile can be accessed here: https://github.com/clairegreenwood83.  
+For additional instructions please contact me at cg.clairegreenwood@gmail.com.
  
