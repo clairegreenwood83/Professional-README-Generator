@@ -38,20 +38,21 @@ The acceptance criteria for this project were:
  
   ## Installation
 
-  initialized my repository with a `package.json` file by running `npm init -y`.
-
-  installed inquirer and added it to my list of dependencies by running `npm i inquirer --save`.
+  - Clone the repository to your remote 
+  - Install the inquirer and added it to the list of dependencies by running `npm i inquirer --save`.
 
   ## Usage
 
-   The application can be invoked by using the following command: node index.js.
+  - The application can be invoked by using the command node index.js in the terminal. 
+  - Answer the prompts that follow.
+  - A README file will be created on success. 
 
   ## License
 
-   MIT
+  MIT
 
-   ## Questions
+  ## Questions
 
-   My GitHub profile can be accessed here: https://github.com/clairegreenwood83  
-   For additional instructions please contact me at cg.clairegreenwood@gmail.com
+  My GitHub profile can be accessed here: https://github.com/clairegreenwood83  
+  For additional instructions please contact me at cg.clairegreenwood@gmail.com
  
