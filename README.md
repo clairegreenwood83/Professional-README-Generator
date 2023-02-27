@@ -45,9 +45,9 @@ As a developer, I want a README generator so that I can quickly create a profess
 - Answer the prompts that follow. The prompts appear as shown in the following image of a terminal running the application:
 ![screenshot of terminal](https://user-images.githubusercontent.com/118351853/221629473-89938be6-ada7-4c3e-8042-50d4fc0bf9cc.jpeg)
 - A README file will be created on success. The following image displays an example of a README file created using the README Generator:
-![screenshot of terminal](https://user-images.githubusercontent.com/118351853/221629978-7f6dcc58-2af3-49ee-b4d4-ebb297412956.jpeg)
+![screenshot of README file in VSCode](https://user-images.githubusercontent.com/118351853/221630127-e8dc474d-f3ac-4788-bbfd-a6478035bd1f.jpeg)
 - The README file will be generated in mark down syntax so you can copy and paste that code into your project.
-- The following video shows how to use the application:
+- The following walkthrough video demonstrates the functionality of the application.
 
 
 
