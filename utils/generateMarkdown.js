@@ -49,7 +49,7 @@ function generateMarkdown(answers) {
 
    ## Questions
 
-   ${`My GitHub profile can be accessed here: https://github.com/ + ${answers.github}`}
+   ${`My GitHub profile can be accessed here: https://github.com/${answers.github}`}
    ${`For additional instructions please contact me at ${answers.email}`}
  `
 }

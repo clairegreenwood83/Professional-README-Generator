@@ -39,6 +39,6 @@
 
    ## Questions
 
-   My GitHub profile can be accessed here: https://github.com/ + clairegreenwood83
+   My GitHub profile can be accessed here: https://github.com/clairegreenwood83
    For additional instructions please contact me at cg.clairegreenwood@gmail.com
  
