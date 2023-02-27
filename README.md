@@ -6,12 +6,12 @@
   
 When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project. This project created a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
-User Story
+### User Story
 
 As a developer, I want a README generator so that I can quickly create a professional README for a new project
 
 
-The acceptance criteria for this project were:
+### The acceptance criteria for this project were:
 
 - Create a command-line application that accepts user input.
 - When a user is prompted for information about the application repository then a high-quality, professional README.md is generated with:
@@ -45,7 +45,7 @@ The acceptance criteria for this project were:
 
   - The application can be invoked by using the command node index.js in the terminal. 
   - Answer the prompts that follow.
-  - A README file will be created on success. 
+  - A README file will be created on success. The README file will be generated in mark down syntax so you can copy and paste that code into your project.
 
   ## License
 
@@ -53,6 +53,6 @@ The acceptance criteria for this project were:
 
   ## Questions
 
-  My GitHub profile can be accessed here: https://github.com/clairegreenwood83  
-  For additional instructions please contact me at cg.clairegreenwood@gmail.com
+  My GitHub profile can be accessed here: https://github.com/clairegreenwood83.  
+  For additional instructions please contact me at cg.clairegreenwood@gmail.com.
  
