@@ -1,10 +1,10 @@
-# Example Project
+# y
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
   ## Description
   
-  This project provides an exmaple of the README file the Professional- README-Generator can produce.
+  y
   
   ## Table of Contents
 
@@ -19,11 +19,11 @@
  
   ## Installation
 
-   Installation guidelines will go here.
+   y
 
   ## Usage
 
-   Usage information will go here.
+   y
 
   ## License
 
@@ -31,14 +31,14 @@
 
   ## Contribution
 
-   Contribution guidelines will go here.
+   y
 
   ## Tests
 
-   Test instructions will go here.
+   y
 
    ## Questions
 
-   "My GitHub profile can be accessed here: [https://github.com/" + clairegreenwood83 +]"
-   "For additional instructions please contact me here:" + cg.clairegreenwood@gmail.com
+   My GitHub profile can be accessed here: https://github.com/ + clairegreenwood83
+   For additional instructions please contact me at cg.clairegreenwood@gmail.com
  
